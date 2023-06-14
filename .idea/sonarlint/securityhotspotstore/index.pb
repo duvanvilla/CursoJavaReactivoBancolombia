@@ -9,9 +9,5 @@
 settings.gradle,0\5\05efc8b1657769a27696d478ded1e95f38737233
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-\
-,src/main/java/clase/sumaParesImperativo.java,e\e\eec105ea1b5fc98e90d54c1e3281add83b855c8b
-d
-4src/main/java/clase/referenciaMetodoListaNombre.java,2\a\2ad2ecbaff12241fb858bb0f1ff0df137cc91ff8
 Y
 )src/main/java/tarea/NumMayorNumMenor.java,2\f\2fa5bc16fff769f4cf1294704abcbe69c16fa7ef
